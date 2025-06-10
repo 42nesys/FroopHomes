@@ -1,0 +1,6 @@
+Sql:
+  Host: "localhost"
+  Port: "3306"
+  Database: "FroopHomes"
+  Username: "Insolventer"
+  Password: "Insolventer123"

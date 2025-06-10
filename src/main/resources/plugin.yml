@@ -1,0 +1,14 @@
+name: FroopHomes
+version: '1.0'
+main: insolventer.froopHomes.FroopHomes
+api-version: '1.21'
+author: [Insolventer]
+
+commands:
+  home:
+    description: Teleport to your home
+  homes:
+    description: Teleport to your home
+
+
+
