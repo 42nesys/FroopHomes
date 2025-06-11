@@ -25,10 +25,10 @@
 | `/home set <1-7>`             | Set a home directly         |            |
 | `/home delete <1-7>`          | Delete a home directly      |            |
 | `/home remove <1-7>`          | Delete a home directly      |            |
-| `/home <player> <1-7>`        |                             | home.admin |
-| `/home <player> set <1-7>`    |                             | home.admin |
-| `/home <player> delete <1-7>` |                             | home.admin |
-| `/home <player> remove <1-7>` |                             | home.admin |
+| `/home <player> <1-7>`        |                             | froophome.admin |
+| `/home <player> set <1-7>`    |                             | froophome.admin |
+| `/home <player> delete <1-7>` |                             | froophome.admin |
+| `/home <player> remove <1-7>` |                             | froophome.admin |
 
 </details>
 
