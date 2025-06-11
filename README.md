@@ -7,7 +7,7 @@
 1. Download the jar
 2. Put the jar in your plugins folder
 3. Restart your server
-4. Setup SQL in `plugins/Homes/config.yml`
+4. Setup SQL in `plugins/FroopHomes/config.yml`
 5. Restart your server (not reload)
 
 <hr>
